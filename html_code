@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<style>
+h1{
+    font-size: 80px;
+    font-family: sans-serif;
+    color: blue;
+    text-align: center;
+}
+body{
+    background-color: #163d15;
+}
+h2{
+    font-size: 40px;
+    font-family: mono;
+    color: #8a1111;
+    text-align: center;
+}
+h3{
+    font-size: 70px;
+    text-align: center;
+    color: gold;
+}
+</style>
+<h1>Test Web Page</h1>
+<h2>Stuff to go under the header</h2>
+<p style="text-align:center">I did this quickly while watching the Pittsburgh Penguins beat the Ottawa Senators.</p>
+<h3>LET'S GO PENS!!!!!</h3>
+</html>
