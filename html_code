@@ -21,9 +21,15 @@ h3{
     text-align: center;
     color: gold;
 }
+img{
+    margin: 10px auto 20px; 
+    display: block;
+}
 </style>
 <h1>Test Web Page</h1>
 <h2>Stuff to go under the header</h2>
 <p style="text-align:center">I did this quickly while watching the Pittsburgh Penguins beat the Ottawa Senators.</p>
 <h3>LET'S GO PENS!!!!!</h3>
+<img src ="/home/chris/Desktop/https:/github.com/cdfallday/Hello_World.git/index.png" 
+ alt = "emblem of a skating penguin with a hockey stick" />
 </html>
